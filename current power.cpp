@@ -23,7 +23,7 @@ cout<<"Enter the value of voltage : "<<endl;
   if(x=="IR"){
     cout<<"Enter the value of resistance : "<<endl;
     cin>>r;
-    cout<<"Enter the value of current : "<<endl;
+    cout<<"Enter the value of currents : "<<endl;
     cin>> i;
 
     double power=r*i*i;
