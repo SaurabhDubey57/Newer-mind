@@ -11,7 +11,7 @@ int sum =0;
 for(x=0;x<n;x++){
 cin>>number[x];
 
-sum=sum+number[x];
+sum= sum+number[x];
 }
 cout<<sum<<endl;
 
